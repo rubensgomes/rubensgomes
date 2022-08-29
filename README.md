@@ -1,1 +1,1 @@
-Hello! My name is Rubens Gomes, I am a passionate software engineer with 27+ years of professional software development experience.  For more information about my professional and educational background please visit my personal web site at [rubens-gomes.com](https://rubensgomes.com).
+Hello! My name is Rubens Gomes, I am a passionate software engineer with 27+ years of professional software development experience.  For more information about my professional and educational background please visit my personal web site at [rubensgomes.com](https://rubensgomes.com).
